@@ -1,7 +1,7 @@
 ## Contributing
 
-[fork]: https://github.com/ORG/REPO/fork
-[pr]: https://github.com/ORG/REPO/compare
+[fork]: https://github.com/ParamosManuver/oss-enterprise/fork
+[pr]: https://github.com/ParamosManuver/oss-enterprise/compare
 [style]: STYLEGUIDE
 [code-of-conduct]: CODE_OF_CONDUCT.md
 
